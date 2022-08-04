@@ -1,0 +1,25 @@
+.blueviolet{
+    color: blueviolet;
+}
+
+.orchid{
+    color: orchid;
+}
+
+.red{
+    color: red;
+}
+
+.orange{
+    color: orange;
+}
+
+button{
+    font-size: 1.2rem;
+    padding: 1rem 2rem;
+    color: white;
+    border: 0px;
+    border-radius: 4px;
+    background-color: rgb(63, 146, 255);
+    display: none;
+}
